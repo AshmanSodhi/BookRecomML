@@ -9,3 +9,5 @@ A book recommendation system is a type of recommendation system where we have to
 ## ML Model Used
 ### Cosine Similarity
 + Cosine similarity is a metric used in machine learning to measure the similarity between two vectors.
+## Dataset Link
++ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
